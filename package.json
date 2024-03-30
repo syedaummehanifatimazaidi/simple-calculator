@@ -1,0 +1,19 @@
+{
+  "name": "hani-simple-calculator",
+  "version": "1.0.1",
+  "description": "A simple command line calculator using Typescript and Nodejs and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "syeda umm e hani fatima",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
